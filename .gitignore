@@ -7,6 +7,7 @@ test_film_frame/*
 __pycache__/
 imdb_scraper/*
 !imdb_scraper/.gitkeep
+notebook_fixer.py
 content_analysis/first_1000_actors.csv
 content_analysis/first_500_actors.csv
 content_analysis/actors_with_more_than_9_titles.csv
