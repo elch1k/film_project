@@ -15,7 +15,7 @@ This project encompasses several sub-projects: an IMDb scraper, data analysis of
   + `faiss_similarity_search.py`: This script performs vector similarity search.
   + `possible_movie_algorithm.py`: This script converts input media into vectors (without CUDA) and attempts to identify films based on actors found in the vector database.
 
-The `imdb_films_db/` folder contains scraped IMDb title data.
+The `imdb_films_db/` folder contains scraped IMDb title data.  
 Note: *The current project structure is unorganized and lacks a production-ready component.*
 
 You can clone this repository and adapt the provided actor face recognition system's algorithm to create your own vector database, then run `possible_movie_algorithm.py` with your data.
